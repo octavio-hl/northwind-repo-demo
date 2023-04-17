@@ -9,7 +9,7 @@ with
              funcionarios.id_funcionario
             , funcionarios.id_gerente				
             , funcionarios.funcionario
-            , gerentes.funcionario as gerentes						
+            , gerentes.funcionario as gerente						
             , funcionarios.funcionario_data_nasc			
             , funcionarios.funcionario_data_contr	
             , funcionarios.funcionario_endereco
